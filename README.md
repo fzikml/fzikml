@@ -1,6 +1,4 @@
-# Hi, I'm [Your Name]
-
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+Hi, I'm Muhammad Faiz Ikmal Bin Omar
 
 ## About me
 - Studying: [your programme], UiTM
